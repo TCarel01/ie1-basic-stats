@@ -43,3 +43,16 @@ BUILD FAILED
 build.xml:17 Unable to find a javac compiler;
 ```
 Make sure that you have a JDK installed and that the JAVA_HOME environment variable is properly set.
+<<<<<<< HEAD
+=======
+
+
+Woohoo I am editing the README file. 
+This is awesome.
+# I know what a header is
+## Hi graders! I hope you are having a nice day while grading this assignment.
+
+Further edits being made. 
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+>>>>>>> 99a672c4a2c1f6da43d57151d719cffaeee631d4
